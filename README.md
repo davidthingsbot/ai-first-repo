@@ -2,6 +2,10 @@
 
 This is an attempt to share my thoughts on best practices for creating what I'm calling **AI-first repositories**.
 
+## Patterns
+
+- **[AI-First Research Repositories](research/ai-first-research.md)** — Structure for data analysis and experimentation with humans and AI agents collaborating through input → runs → library knowledge accumulation.
+
 ## The Core Idea
 
 If you have an IDE and a coding agent, it's a very natural thing to work in a repository — for all the reasons we know and love repositories:
